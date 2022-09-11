@@ -1,6 +1,8 @@
 # EXPERIMENT--01-ALP-FOR-8086
 Name : Kaushika.A
+
 Roll no : 212221230048
+
 Date of experiment : 11.09.2022
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
